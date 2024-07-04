@@ -4,8 +4,11 @@ I have built a basic CRM and now is the time to show it to the world!
 ## Todos
 - Finalise the prototype CRM, fix any bugs, add authentication
 - Create a landing page for my service, showcase how it works, allow users to sign up for newsletter, and contact information
+  	- https://github.com/cruip/tailwind-landing-page-template (Free landing page)
+  	- https://tailblocks.cc/ (Free Tailwind components)
 - Create content to answer questions for social media
-- Set up payment
+  	- Find keywords, related keywords, questions
+- Set up payment - double check stripe
 - Record whenever I am programming
 - Scrape for leads in targeted niches
 
@@ -62,7 +65,6 @@ I have built a basic CRM and now is the time to show it to the world!
 - Consulting services
 - Event planning
 - Freelance design & development
-- Personal finance advisory
 - Content creation & copywriting
 - Educational tutoring services
 

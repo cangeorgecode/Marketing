@@ -1,6 +1,12 @@
 # General tips
 Tips on sales and marketing
 
+## HTML components
+- https://shuffle.dev/components/bootstrap
+- https://tailgrids.com/components/headers
+- https://tailwindui.com/components/marketing/page-examples/landing-pages
+
+
 ## Value formula
 
 ```

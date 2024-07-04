@@ -5,7 +5,7 @@ Tips on sales and marketing
 - https://shuffle.dev/components/bootstrap
 - https://tailgrids.com/components/headers
 - https://tailwindui.com/components/marketing/page-examples/landing-pages
-- https://www.material-tailwind.com/pro#pricing
+- https://www.material-tailwind.com/pro#pricing (Requires React)
 
 
 ## Value formula

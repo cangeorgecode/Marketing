@@ -7,6 +7,7 @@ I have built a basic CRM and now is the time to show it to the world!
   	- https://github.com/cruip/tailwind-landing-page-template (Free landing page)
   	- https://tailblocks.cc/ (Free Tailwind components)
   	- https://github.com/aniftyco/awesome-tailwindcss
+  	- https://tailwindcomponents.com/components/dashboard
 - Create content to answer questions for social media
   	- Find keywords, related keywords, questions
 - Set up payment - double check stripe
